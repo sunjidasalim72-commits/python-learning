@@ -1,1 +1,1 @@
-# python-learning
+Journey of learning python
